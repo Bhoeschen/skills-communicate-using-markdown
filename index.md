@@ -9,3 +9,7 @@ var myVar = "Hello, world!";
 ```C#
 var test = new int();
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
